@@ -166,11 +166,44 @@ For questions, issues, or feature requests:
 - Contact: [your-email@example.com]
 - Documentation: [Link to detailed docs]
 
+## 🚀 Streamlit Cloud Deployment
+
+### Deploy to Streamlit Community Cloud
+
+1. **Push to GitHub** (if not already done):
+   ```bash
+   git add .
+   git commit -m "Add Streamlit Cloud configuration"
+   git push origin main
+   ```
+
+2. **Deploy on Streamlit Cloud**:
+   - Go to [share.streamlit.io](https://share.streamlit.io)
+   - Sign in with your GitHub account
+   - Click "New app"
+   - Select your repository: `YOUR_USERNAME/adoptima-marketing-dashboard`
+   - Main file path: `streamlit_app.py`
+   - Click "Deploy!"
+
+3. **Your app will be live at**: `https://YOUR_APP_NAME.streamlit.app`
+
+### Local Development
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run locally
+streamlit run app.py
+# or
+streamlit run streamlit_app.py
+```
+
 ## 🔗 Links
 
-- **Live Demo**: [Streamlit Cloud Demo](https://your-demo-url.streamlit.app)
+- **Live Demo**: [Deploy to Streamlit Cloud](https://share.streamlit.io)
 - **GitHub Repository**: [https://github.com/your-username/adoptima-marketing-dashboard](https://github.com/your-username/adoptima-marketing-dashboard)
-- **Documentation**: [Link to detailed documentation]
+- **Documentation**: [See README.md for full documentation]
 
 ---
 
