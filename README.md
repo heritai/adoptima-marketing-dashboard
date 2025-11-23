@@ -4,36 +4,36 @@
 
 ## 🚀 Problem & Solution
 
-**Problem:** Businesses often waste marketing budgets on underperforming campaigns, leading to missed growth opportunities.
+**Problem:** Businesses often allocate marketing budgets inefficiently, leading to underperforming campaigns and missed growth opportunities.
 
-**Solution:** AdOptima provides an intelligent, AI-powered dashboard that analyzes the intricate impact of marketing spend across diverse channels. It then delivers optimal budget allocations to maximize ROI, specifically tailored for mid-size retail and e-commerce businesses.
+**Solution:** AdOptima offers an intelligent, AI-powered dashboard that analyzes the intricate impact of marketing spend across diverse channels. It then delivers optimal budget allocations to maximize ROI, specifically tailored for mid-size retail and e-commerce businesses.
 
 ## 📊 What AdOptima Delivers
 
 ### Key Features
--   **📈 Global Insights**: Gain comprehensive KPI insights and analyze spend-versus-revenue trends for a holistic performance overview.
--   **🎯 Campaign Optimizer**: Leverage AI-driven budget allocation, providing real-time revenue and ROI predictions to empower data-backed decisions.
--   **🔮 Scenario Explorer**: Simulate diverse market conditions (e.g., holiday season surges, competitive shifts) for strategic planning and adaptation.
--   **📊 Model Performance**: Analyze feature importance and model explainability to deeply understand the key drivers of campaign success.
+-   📈 **Global Insights**: Gain comprehensive KPI insights and analyze spend-versus-revenue trends for a holistic performance overview.
+-   🎯 **Campaign Optimizer**: Leverage AI-driven budget allocation, providing real-time revenue and ROI predictions to empower data-backed decisions.
+-   🔮 **Scenario Explorer**: Simulate diverse market conditions (e.g., holiday season surges, competitive shifts) for strategic planning and adaptation.
+-   📊 **Model Performance**: Analyze feature importance and model explainability to deeply understand the key drivers of campaign success.
 
 ### AI Models
--   **Linear Regression**: A foundational model identifying clear, linear relationships within marketing data.
--   **Random Forest**: An advanced ensemble model capturing complex non-linear effects and intricate channel interactions.
--   **Optimization Engine**: The core engine generating automated, actionable budget reallocation recommendations for maximum impact.
+-   Linear Regression: A foundational model for identifying clear, linear relationships within marketing data.
+-   Random Forest: An advanced ensemble model designed to capture complex non-linear effects and intricate channel interactions.
+-   Optimization Engine: The core engine generating automated, actionable budget reallocation recommendations for maximum impact.
 
 ### Business Impact
 -   **ROI Improvement**: Achieve an average **15-25% ROI increase** through intelligently optimized budget allocation.
--   **Cost Reduction**: **Proactively identify and reduce spend** on low-performing or inefficient channels, leading to significant budget savings.
--   **Revenue Growth**: **Drive 10-20% revenue growth** by enabling precise, data-driven marketing decisions.
+-   **Cost Reduction**: Proactively identify and reduce spend on low-performing or inefficient channels, leading to significant budget savings.
+-   **Revenue Growth**: Drive **10-20% revenue growth** by enabling precise, data-driven marketing decisions.
 -   **Strategic Planning**: Facilitate robust strategic planning and adaptation through comprehensive scenario analysis for dynamic market conditions.
 
 ## 🛠️ Tech Stack
 
--   **Frontend**: Streamlit (for an interactive, user-friendly dashboard)
+-   **Frontend**: Streamlit (for an interactive, user-friendly dashboard experience)
 -   **Backend**: Python 3.10+
--   **ML/AI**: scikit-learn, pandas, numpy (for robust data manipulation and machine learning capabilities)
--   **Visualization**: Plotly (for interactive, theme-aware visualizations, supporting dark/light mode)
--   **Data**: Synthetic, yet realistic, 2-year marketing dataset
+-   **ML/AI**: `scikit-learn`, `pandas`, `numpy` (for robust data manipulation and machine learning capabilities)
+-   **Visualization**: `Plotly` (for interactive, theme-aware visualizations, supporting dark/light mode)
+-   **Data**: Synthetic, yet realistic, 2-year marketing dataset.
 
 ## 🚀 Quick Start
 
@@ -81,7 +81,7 @@ adoptima-marketing-dashboard/
 
 ## 📈 Dataset Overview
 
-AdOptima utilizes a comprehensive synthetic dataset, meticulously simulating 24 months of realistic marketing activity:
+AdOptima utilizes a comprehensive synthetic dataset, meticulously simulating **24 months of realistic marketing activity**:
 
 -   **Marketing Channels**: Social Media, Search Ads, Email, Promotions
 -   **Key Metrics**: Spend, Revenue, ROI, Competitor Activity (simulated)
@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This project is a demonstration using synthetic data, built purely for educational and illustrative purposes. The models and insights provided are simplified and should not be used for actual business decisions without thorough validation against real-world data and expert consultation.
+This project is a demonstration using synthetic data, built purely for educational and illustrative purposes. The models and insights provided are simplified and should **not** be used for actual business decisions without thorough validation against real-world data and expert consultation.
 
 ## 📞 Support
 
@@ -189,10 +189,10 @@ AdOptima can be easily deployed to Streamlit Community Cloud for a live, shareab
     -   Sign in with your GitHub account.
     -   Click "New app".
     -   Select your repository (e.g., `YOUR_USERNAME/adoptima-marketing-dashboard`).
-    -   Set the `Main file path` to `app.py`.
+    -   Set the ``Main file path`` to `app.py`.
     -   Click "Deploy!".
 
-3.  **Your deployed app will be accessible at**: `https://[your-app-name].streamlit.app`
+3.  Your deployed app will be accessible at: `https://[your-app-name].streamlit.app`
 
 ### Local Development
 
